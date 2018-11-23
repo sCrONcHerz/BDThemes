@@ -333,7 +333,7 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 /* Setting Icons */
 #user-settings .item-PXvHYJ,#bd-settings-sidebar .ui-tab-bar-item{padding-left:34px}
 #user-settings .item-PXvHYJ:before,#bd-settings-sidebar .ui-tab-bar-item:before{content:"";position: absolute;left:4px;top:4px;height:24px;width:24px;background:#4b4a42}
-#user-settings .item-PXvHYJ:hover:before,#user-settings .itemSelected-1qLhcL:before,#bd-settings-sidebar .ui-tab-bar-item:hover:before{background:rgb(202, 195, 176)}
+#user-settings .item-PXvHYJ:hover:before,#user-settings .itemSelected-1qLhcL:before,#bd-settings-sidebar .ui-tab-bar-item:hover:before{background:rgb(210, 10, 0)}
 #user-settings .item-PXvHYJ:nth-child(2):before{-webkit-mask:url("https://mixter213.github.io/Discord-Themes/Icons/Account.svg");mask:none}
 #user-settings .item-PXvHYJ:nth-child(3):before{-webkit-mask:url("https://mixter213.github.io/Discord-Themes/Icons/PrivacySafety.svg");mask:none}
 #user-settings .item-PXvHYJ:nth-child(4):before{-webkit-mask:url("https://mixter213.github.io/Discord-Themes/Icons/AuthorizedApps.svg");mask:none}
