@@ -60,7 +60,7 @@
 /* popout , menu & mic menu */
 #app-mount .popout-3sVMXz,#app-mount .menu-Sp6bN1{border:none;border-radius:0;margin:0;background: rgba(182, 175, 156, 0.8);box-shadow:none}
 #app-mount .item-1GzJrl{color:rgb(65,64,56)!important;font-weight:bold;border-bottom:1px solid rgba(0,0,0,.2)}
-#app-mount .item-1GzJrl:hover{color:rgb(192, 185, 166)!important;background:rgb(65,64,56)}
+#app-mount .item-1GzJrl:hover{color:rgb(153, 2, 0)!important;background:rgb(65,64,56)}
 
 #app-mount .contextMenu-HLZMGh,#app-mount .contextMenu-HLZMGh{background:rgba(153, 2, 0,.8)}
 #app-mount .item-1Yvehc{color:rgb(65,64,56);font-weight:bold;border-bottom:1px solid rgba(0,0,0,.2)}
